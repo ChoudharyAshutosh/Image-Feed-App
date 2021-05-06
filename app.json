@@ -1,0 +1,12 @@
+{
+  "name": "imageHoster",
+  "displayName": "imageHoster",
+  "expo": {
+    "name": "imageHoster",
+    "slug": "imageHoster",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
